@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrewstevenalbright/CLionProjects/sched/main.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+sched.h
+/Users/andrewstevenalbright/CLionProjects/sched/sched.h
+
+/Users/andrewstevenalbright/CLionProjects/sched/sched.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sched.h
+/Users/andrewstevenalbright/CLionProjects/sched/sched.h
+
+/Users/andrewstevenalbright/CLionProjects/sched/sched.h
+

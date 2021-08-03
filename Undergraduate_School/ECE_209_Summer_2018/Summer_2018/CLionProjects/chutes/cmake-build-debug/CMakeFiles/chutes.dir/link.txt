@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -Wall -pedantic -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/chutes.dir/chutes.c.o CMakeFiles/chutes.dir/tools.c.o  -o chutes 
